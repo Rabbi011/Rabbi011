@@ -1,5 +1,7 @@
-### Hi there 👋, This is Rakib
+### Hi there 👋, This is Rakib.
 #### Web Developer
+## Having 2 years experience in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) with responsive design. Also knew the concept of OOP, Algorithm & Data structure. I, as a web developer have knowledge on Html, CSS, Bootstrap, tailwind, JavaScript & Reactjs.
+
 
 Skills: JS / REACT / HTML / CSS/C/C++
 
