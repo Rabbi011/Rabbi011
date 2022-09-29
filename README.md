@@ -1,11 +1,9 @@
 ### Hi there 👋, This is Rakib.
 #### Web Developer
-## Having 2 years experience in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) with responsive design. Also knew the concept of OOP, Algorithm & Data structure. I, as a web developer have knowledge on Html, CSS, Bootstrap, tailwind, JavaScript & Reactjs.
+## Having 2 years experience in web developing sector. Have also the experience on problem solving in various platform. I have created different types of projects(websites) with responsive design. Also knew the concept of OOP, Algorithm & Data structure. I, as a web developer have knowledge on Html, CSS, Bootstrap, tailwind, JavaScript & Reactjs,Node.js,Mongodb.
 
 
-Skills: JS / REACT / HTML / CSS/C/C++
-
-- 🌱 I’m currently learning React 
+Skills:Node.js/ Mongodb / JS / REACT / HTML / CSS/C/C++
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rabbi011)  
