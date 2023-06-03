@@ -21,4 +21,3 @@ Skills:Node.js/ Mongodb / JS / REACT / HTML / CSS/C/C++
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rabbi011)  
 
-![Profile views](https://gpvc.arturio.dev/Rabbi011)
